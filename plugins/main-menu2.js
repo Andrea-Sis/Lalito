@@ -2,20 +2,9 @@ let handler = async (m, { isPrems, conn }) => {
 let time = global.db.data.users[m.sender].lastcofre + 0 // 36000000 10 Horas //86400000 24 Horas
 if (new Date - global.db.data.users[m.sender].lastcofre < 0) throw `[❗𝐈𝐍𝐅𝐎❗] 𝚈𝙰 𝚁𝙴𝙲𝙻𝙰𝙼𝙰𝚂𝚃𝙴 𝚃𝚄 𝙲𝙾𝙵𝚁𝙴\𝚗𝚅𝚄𝙴𝙻𝚅𝙴 𝙴𝙽 *${msToTime(time - new Date())}* 𝙿𝙰𝚁𝙰 𝚅𝙾𝙻𝚅𝙴𝚁 𝙰 𝚁𝙴𝙲𝙻𝙰𝙼𝙰𝚁`
 
-let img = 'https://telegra.ph/file/03d1e7fc24e1a72c60714.jpg' 
-let texto = `*☁️ _M E N U - A U D I O S_ ☁️*
+let img = 'https://i.ibb.co/G0Jh1TW/file.jpg' 
+let texto = `*SUPER AUDIOS MENU ❄️*
 
-° _Tunometecabrasaramambiche_.
-° _Me Anda Buscando Anonymous_.
-° _Se Estan Riendiendo De Mi_.
-° _Esto Va Ser Epico Papus_.
-° _En Caso De Una Investigación_.
-° _Elmo Sabe Donde Vives_.
-° _Diagnosticado Con Gay_.
-° _Esto Va Para Ti_.
-° _Feliz Cumpleaños_.
-° _Maldito Teni_.
-° _Conoces a Miguel_.
 ° _Usted es Feo_.
 ° _Como Estan_.
 ° _Verdad Que Te Engañe_.
@@ -28,6 +17,17 @@ let texto = `*☁️ _M E N U - A U D I O S_ ☁️*
 ° _No Me Hagas Usar Esto_.
 ° _No Me Hables_.
 ° _No Chupala_.
+° _Tunometecabrasaramambiche_.
+° _Me Anda Buscando Anonymous_.
+° _Se Estan Riendiendo De Mi_.
+° _Esto Va Ser Epico Papus_.
+° _En Caso De Una Investigación_.
+° _Elmo Sabe Donde Vives_.
+° _Diagnosticado Con Gay_.
+° _Esto Va Para Ti_.
+° _Feliz Cumpleaños_.
+° _Maldito Teni_.
+° _Conoces a Miguel_.
 ° _Nadie Te Pregunto_.
 ° _Mierda De Bot_.
 ° _Marica Tu_.
