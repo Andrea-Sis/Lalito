@@ -28,7 +28,8 @@ let tags = {
 
 const defaultMenu = {
   before: `
-𝑾𝑨𝑳𝑳•𝑬 _𝐌𝐄𝐉𝐎𝐑 𝐁𝐎𝐓 𝐃𝐄𝐋 𝐌𝐎𝐌𝐄𝐍𝐓𝐎_
+𝑩𝑶𝑻 𝑾𝑨𝑳𝑳•𝑬 ❄️
+
 “ hello *%name*, Cómo se encuentra el día de hoy? ”
 
 *╔═══*「 *Info User* 」❄️
