@@ -7,9 +7,9 @@ let img = catalogo
     contextInfo: {
     	isForwarded: true,
     forwardedNewsletterMessageInfo: {
-      newsletterJid: "120363299667225383@newsletter",
+      newsletterJid: "120363355898976387@newsletter",
       serverMessageId: 100,
-      newsletterName: '𝑺𝑰𝑺𝑲𝑬𝑫-𝑩𝑶𝑻',
+      newsletterName: '𝑩𝑶𝑻 𝑾𝑨𝑳𝑳•𝑬',
     },
 	    externalAdReply: {
 				    showAdAttribution: true,
@@ -50,17 +50,17 @@ global.rcanal = {
 contextInfo: {
 isForwarded: true,
 forwardedNewsletterMessageInfo: {
-newsletterJid: "120363299667225383@newsletter",
+newsletterJid: "120363355898976387@newsletter",
 serverMessageId: 100,
-newsletterName: '𝑺𝑰𝑺𝑲𝑬𝑫-𝑩𝑶𝑻',
+newsletterName: '𝑩𝑶𝑻 𝑾𝑨𝑳𝑳•𝑬',
 },
 externalAdReply: { 
 showAdAttribution: true,
-title: '𝑺𝑰𝑺𝑲𝑬𝑫-𝑩𝑶𝑻',
-body: 'Super Bot de WhatsApp ⭐',
+title: '𝑩𝑶𝑻 𝑾𝑨𝑳𝑳•𝑬',
+body: 'Mejor Bot De WhatsApp ❄️',
 previewType: "PHOTO",
-thumbnailUrl: 'https://i.ibb.co/qBxdwZW/file.jpg',
-sourceUrl: 'https://www.instagram.com/sisked_1',
+thumbnailUrl: 'https://i.ibb.co/G0Jh1TW/file.jpg',
+sourceUrl: 'https://www.instagram.com/lxlito.7/profilecard/',
 mediaType: 1,
 renderLargerThumbnail: false
 },},}
